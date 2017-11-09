@@ -6,7 +6,6 @@ html {
   h5 {
     text-align: center;
     padding: 0;
-    text-color: maroon;
   }
   
   .selfie {
@@ -36,7 +35,7 @@ html {
   
   .skills {
     text-align: left;
-    padding-top: 0px;
+    padding-top: 10px;
   }
   
   body {
@@ -62,8 +61,8 @@ html {
   h1 {
     font: italic strong 1.4em georgia, sans-serif;
     letter-spacing: 1px;
-    margin-bottom: 0;
-    color: #7D775C;
+    margin-bottom: 20;
+    color: maroon;
     text-align: center
   }
   
