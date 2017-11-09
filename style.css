@@ -8,17 +8,20 @@ h5 {
 }
 .selfie {
 	display: block;
-	margin: auto;
-	
+	margin: auto;	
 }
 body { 
 	font: 75% georgia, sans-serif;
 	line-height: 1.88889;
-	color: #555753; 
-	background: #fff  no-repeat bottom right; 
+	color: #555753;
+	background: no-repeat bottom right; 
 	margin: 0; 
 	padding: 0;
 	}
+main article section h3 {
+	font-size: 20px;
+	color: maroon;
+}
 p { 
 	margin-top: 0; 
 	text-align: justify;
@@ -33,16 +36,16 @@ h1 {
 a:link { 
 	font-weight: bold; 
 	text-decoration: none; 
-	color: #B7A5DF;
+	color: maroon;
 	}
 a:visited { 
 	font-weight: bold; 
 	text-decoration: none; 
-	color: #D4CDDC;
+	color: blue;
 	}
 a:hover, a:focus, a:active { 
 	text-decoration: underline; 
-	color: #9685BA;
+	color: red;
 	}
 abbr {
 	border-bottom: none;
@@ -59,7 +62,7 @@ abbr {
 	
 .skills {
     text-align: left;
-    padding: 1px;
+    padding-top: 300px;
 }
 
 header h2 { 
